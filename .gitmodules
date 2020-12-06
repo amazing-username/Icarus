@@ -19,3 +19,6 @@
 [submodule "3rdparty/libbcrypt"]
 	path = 3rdparty/libbcrypt
 	url = https://github.com/rg3/libbcrypt
+[submodule "3rdparty/vcpkg"]
+	path = 3rdparty/vcpkg
+	url = https://github.com/microsoft/vcpkg
